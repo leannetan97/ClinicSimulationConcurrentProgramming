@@ -1,4 +1,4 @@
-# Clinic Simulation Concurrent Programming (Concurrent Programming Assignment WIF3003)
+# Clinic Simulation Concurrent Programming<br>(Concurrent Programming Assignment WIF3003)
 
 This is a Clinic Simulation in Java. In this project, the reader class, each patient and doctors will be run as a thread.
 There are severals
